@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>I Love Java!</h2>
+<h2>Maven test!</h2>
 </body>
 </html>
