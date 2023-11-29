@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Maven test!</h2>
+<h2>Test 1 2 3!</h2>
 </body>
 </html>
